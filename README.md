@@ -1,4 +1,4 @@
 python_for_kids
 ===============
 
-some codes for my daughter's python learning
+some codes written by my daughter's during her python learning
